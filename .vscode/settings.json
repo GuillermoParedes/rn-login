@@ -40,7 +40,7 @@
   "workbench.iconTheme": "vscode-icons",
 
   // WINDOW
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   // SEARCH
   "search.showLineNumbers": true,
   // EXTERNAL -----
